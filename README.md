@@ -86,7 +86,7 @@ numpy>=1.26
 ---
 
 ## Data
-
+Kaparthy Split can be downloaded from here - https://www.kaggle.com/datasets/shtvkumar/karpathy-splits
 ### MS-COCO 2014 (training + Karpathy eval)
 
 * Images:
