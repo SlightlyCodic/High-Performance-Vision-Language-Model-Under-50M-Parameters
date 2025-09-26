@@ -204,8 +204,6 @@ The script prints **I→T / T→I Recall@{1,5,10}** and **Median Rank** and writ
 
 > We observed that **ConvFFN > MLP** and **K=2 > K=1** consistently; multi-caption notably boosts **I→T**, while ConvFFN improves both directions.
 
-If you want to publish extended ablations (e.g., recipe comparisons and ConvFFN-only runs), add a `RESULTS.md`.
-
 ---
 
 ## Tips & Troubleshooting
@@ -283,5 +281,3 @@ Datasets keep their original licenses (MS-COCO, Flickr30k). This repo does **not
 * **SigLIP** — Zhai et al., 2023. *Sigmoid Loss for Language-Image Pre-Training.*
 * **TinyViT** — Wu et al., 2022. *TinyViT: Fast Pretraining Distillation for Small Vision Transformers.*
 * **MiniLM** — Wang et al., 2020. *MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers.*
-
-Please also cite MS-COCO, Flickr30k, PyTorch, timm, Transformers, and OpenCLIP as appropriate.
