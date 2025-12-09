@@ -62,7 +62,7 @@ tinyclip-convffn/
 ## Setup
 
 ```bash
-git clone <your-repo-url> tinyclip-convffn
+git clone https://github.com/SlightlyCodic/High-Performance-Vision-Language-Model-Under-50M-Parameters.git tinyclip-convffn
 cd tinyclip-convffn
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
